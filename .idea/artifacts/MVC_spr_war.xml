@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="MVC_spr:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="MVC_spr.war">
+      <element id="artifact" artifact-name="MVC_spr:war exploded" />
+    </root>
+  </artifact>
+</component>
